@@ -1,0 +1,161 @@
+Here’s a detailed day-by-day breakdown of your 12-week Flask internship from January 20, 2025, to April 11, 2025.
+
+Schedule: Monday to Friday (Weekends off)
+Total Workdays: 60 days (Excluding orientation day)
+Internship Goals:
+Learn Frontend (HTML, CSS, JavaScript)
+Learn Backend (Python, Flask, SQL, APIs, Authentication, Deployment)
+Work on a real-world Flask-based project
+Debug, test, deploy, and present the final project
+📌 Week 1: Introduction to Web Development & Setup
+🎯 Goal: Understand web-client architecture, setup the environment, learn HTML & CSS
+
+🗓️ January 20, 2025 (Monday) – Orientation Day
+Company Policies & HR Formalities
+Team Introductions & Project Overview
+Setup of Tools (Slack, GitHub, VS Code, Python, Postman)
+No technical work today
+🗓️ January 21 - January 24 (Tuesday - Friday) – Basics of Web Development
+Day 1 (Jan 21):
+
+Web architecture: Frontend, Backend, Database
+Client-server communication using HTTP
+Setting up a local development environment
+Day 2 (Jan 22):
+
+Introduction to HTML: Tags, Forms, Semantic Elements
+Build a simple static webpage
+Day 3 (Jan 23):
+
+CSS Basics: Selectors, Box Model, Flexbox
+Responsive design with CSS Grid & Media Queries
+Day 4 (Jan 24):
+
+Creating a simple frontend webpage with HTML & CSS
+Version control: Git & GitHub basics
+📌 Week 2: JavaScript & Python Core
+🎯 Goal: Learn JavaScript (frontend) & Python (backend) basics
+
+🗓️ January 27 - January 31 (Monday - Friday)
+Day 5 (Jan 27):
+
+JavaScript: Variables, Data Types, Functions
+Console debugging
+Day 6 (Jan 28):
+
+DOM Manipulation: Selecting elements, event listeners
+Handling click events and form submissions
+Day 7 (Jan 29):
+
+Python introduction: Data Types, Lists, Dictionaries
+Writing basic Python scripts
+Day 8 (Jan 30):
+
+Python Object-Oriented Programming (OOP)
+Classes, Objects, Inheritance
+Day 9 (Jan 31):
+
+Hands-on exercises: Building a simple CLI-based Python app
+Using Python for basic file handling & JSON processing
+📌 Week 3: Introduction to Flask & Databases
+🎯 Goal: Learn Flask fundamentals & integrate it with SQL
+
+🗓️ February 3 - February 7 (Monday - Friday)
+Day 10 (Feb 3):
+
+Install Flask, Create first Flask app
+Understanding Flask routes & request handling
+Day 11 (Feb 4):
+
+Jinja2 Templating: Embedding Python in HTML
+Handling GET & POST requests
+Day 12 (Feb 5):
+
+SQL Basics: Tables, CRUD operations
+Connecting Flask with SQLite using SQLAlchemy
+Day 13 (Feb 6):
+
+Building a small CRUD Flask App
+Creating a User Registration form
+Day 14 (Feb 7):
+
+Implementing Flask Forms using Flask-WTF
+Form validation & error handling
+📌 Week 4: API Development & Frontend Integration
+🎯 Goal: Learn REST APIs & connect Flask backend with frontend
+
+🗓️ February 10 - February 14 (Monday - Friday)
+Day 15 (Feb 10):
+
+Introduction to REST APIs
+Creating API endpoints in Flask
+Day 16 (Feb 11):
+
+Handling API requests using Postman
+Understanding JSON responses
+Day 17 (Feb 12):
+
+Connecting frontend (JavaScript) to Flask APIs
+Fetching and displaying API data dynamically
+Day 18 (Feb 13):
+
+Implementing AJAX calls to update content without refreshing
+Day 19 (Feb 14):
+
+Completing a Mini Full-Stack CRUD Project
+📌 Week 5: Debugging an Existing Flask Project
+🎯 Goal: Understand an existing Flask project & fix bugs
+
+🗓️ February 17 - February 21 (Monday - Friday)
+Day 20 (Feb 17): Code Walkthrough & Setup
+Day 21 (Feb 18): Identifying bugs & testing issues
+Day 22 (Feb 19): Fixing minor issues
+Day 23 (Feb 20): Improving API error handling
+Day 24 (Feb 21): Optimizing database queries
+📌 Week 6-7: Backend Development
+🎯 Goal: Develop major Flask functionalities
+
+🗓️ February 24 - March 7 (Monday - Friday)
+Developing new APIs
+Implementing User Authentication (JWT, Flask-Login)
+Securing API endpoints
+📌 Week 8: Frontend Improvements & Advanced API Integration
+🎯 Goal: Enhance the UI & improve API interactions
+
+🗓️ March 10 - March 14 (Monday - Friday)
+Implementing Bootstrap & Tailwind CSS
+Adding JavaScript animations & event handling
+Handling API response errors gracefully
+📌 Week 9: Testing & Debugging
+🎯 Goal: Ensure project quality before deployment
+
+🗓️ March 17 - March 21 (Monday - Friday)
+Unit testing Flask APIs using Pytest
+Performance testing & SQL optimization
+📌 Week 10: Deployment & Hosting
+🎯 Goal: Deploy Flask app on a cloud platform
+
+🗓️ March 24 - March 28 (Monday - Friday)
+Setting up Heroku / AWS / DigitalOcean
+Configuring Gunicorn & Nginx
+Automating deployment with CI/CD pipeline
+📌 Week 11: Finalizing & Documentation
+🎯 Goal: Prepare project for submission
+
+🗓️ March 31 - April 4 (Monday - Friday)
+Final bug fixes
+Writing API documentation
+📌 Week 12: Project Presentation
+🎯 Goal: Present the final project
+
+🗓️ April 7 - April 11 (Monday - Friday)
+Preparing slides & demo
+Project presentation to the team
+Receiving feedback
+Internship completion & certification
+🎯 Final Summary of Skills Learned
+✔ Frontend: HTML, CSS, JavaScript
+✔ Backend: Python, Flask, SQL
+✔ APIs: REST API development
+✔ Security: Authentication & Authorization
+✔ Debugging: Bug fixing in Flask
