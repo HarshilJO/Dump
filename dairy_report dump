@@ -1,0 +1,108 @@
+Internship Diary Report
+Week 1
+Day 1: Introduction to TSS and HR Activities
+Attended an orientation session introducing the TSS team and HR activities.
+Learned about company culture, values, teamwork, and communication.
+Familiarized myself with the organizational structure and key personnel.
+Day 2: Client and Product Overview Training
+Attended a training session focused on understanding clients and company products.
+Gained insights into Trackwizz and its significance in the market.
+Discussed client needs and how our products address them.
+Day 3: IT Induction and Security Awareness Training
+Completed IT induction training, covering company tools and technologies.
+Understood the importance of cybersecurity and data protection.
+Learned best practices for maintaining security while working on projects.
+Day 4: Overview of CKYC for Trackwizz Product
+Started my project work with an overview of CKYC (Central Know Your Customer).
+Reviewed the workflow of CKYC, including customer verification and data management.
+Discussed project objectives and expectations with my supervisor.
+Day 5: Debugging the CKYC Project
+Began debugging the CKYC project under senior guidance.
+Gained hands-on experience in troubleshooting and problem-solving.
+Day 6: Continued Debugging
+Continued debugging the CKYC project, focusing on previously identified issues.
+Worked closely with my senior colleague to understand and fix bugs.
+Documented changes and debugging results for future reference.
+Day 7: Frontend Training
+Started frontend training, covering HTML tags and CSS styling.
+Learned web page structuring and responsive design techniques.
+Summary of Week 1
+The first week was an enriching experience, helping me transition into my role. I gained foundational knowledge about the company, its products, and the CKYC project. Training sessions provided essential skills in debugging and frontend development.
+
+Week 2
+Day 8: Continued Frontend Training & JavaScript Concepts
+Revised HTML and CSS concepts.
+Started exploring JavaScript fundamentals, including:
+Variables and Functions
+Asynchronous JavaScript & Event Loop
+Array Functions
+Event Bubbling, Capturing, and Delegation
+Closures
+JSON (json.stringify & json.parse)
+Promises
+Async/Await & Function Expressions
+Timing Functions
+Spread and Rest Syntax
+Learned best practices for writing clean and maintainable code.
+Day 9: CRUD Operations and DOM Manipulation
+Worked on a task involving CRUD operations with a Dummy API.
+Strengthened understanding of Asynchronous Programming and Session Storage.
+Practiced DOM Manipulation by dynamically creating elements in JavaScript.
+Day 10: Dice Board Game Development
+Started developing a Dice Board Game using HTML, CSS, and JavaScript.
+Focused on optimizing and improving efficiency in my previous CRUD task.
+Day 11: Enhancing Dice Board Game
+Worked on game logic and UI improvements.
+Implemented randomized dice rolls and improved animations.
+Day 12: Introduction to Angular
+Started learning Angular framework.
+Understood component-based architecture and TypeScript concepts.
+Created a basic Angular component and explored data binding techniques.
+Day 13: Angular Services and Routing
+Explored Angular services for data handling.
+Implemented Angular Routing for navigation between components.
+Created a small project using services and routing.
+Day 14: API Integration in Angular
+Learned about HTTP Client Module for making API calls.
+Integrated CRUD operations with backend API in Angular.
+Summary of Week 2
+This week, I deepened my frontend knowledge by exploring JavaScript, DOM manipulation, and CRUD operations. Additionally, I started working with Angular, understanding components, services, and API integration.
+
+Week 3
+Day 15: Advanced Angular Concepts
+Explored Angular Forms (Reactive & Template-Driven Forms).
+Implemented form validation techniques.
+Day 16: UI Enhancements with Angular Material
+Started using Angular Material for UI enhancements.
+Applied pre-built components for a better user experience.
+Day 17: Working with C# Backend
+Started exploring C# for backend development.
+Understood ASP.NET Core fundamentals.
+Created a basic API endpoint in C#.
+Day 18: Connecting Angular with C# Backend
+Connected my Angular frontend with ASP.NET Core backend.
+Used HTTP requests to fetch and display data dynamically.
+Day 19: Entity Framework and Database Integration
+Learned Entity Framework (EF Core) for database management.
+Implemented CRUD operations using C# and SQL Server.
+Day 20: Security and Authentication
+Explored JWT-based authentication for securing APIs.
+Implemented login and authentication features in Angular and C# backend.
+Summary of Week 3
+This week, I advanced in Angular development, covering services, forms, and API integration. Additionally, I started exploring backend development with C# and Entity Framework.
+
+Week 4
+Day 21: Advanced Backend Development in C#
+Learned middleware concepts in ASP.NET Core.
+Implemented custom authentication and authorization policies.
+Day 22: Full-Stack Project Implementation
+Worked on a full-stack project using Angular and ASP.NET Core.
+Implemented authentication (JWT-based login system).
+Debugged API issues and optimized database queries.
+Final Summary
+Over the last 22 days, I have:
+ Gained foundational knowledge about the company, its products, and work culture.
+ Strengthened my frontend skills (HTML, CSS, JavaScript, Angular).
+ Explored Angular, including components, services, routing, and API integration.
+ Started backend development with C# (ASP.NET Core) and Entity Framework.
+ Built a full-stack project, improving my problem-solving and debugging skills.
